@@ -11,6 +11,7 @@
 		2CB3813F2A32844900A2DDEC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB3813E2A32844900A2DDEC /* ContentView.swift */; };
 		2CB381412A32844A00A2DDEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB381402A32844A00A2DDEC /* Assets.xcassets */; };
 		2CB381442A32844A00A2DDEC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB381432A32844A00A2DDEC /* Preview Assets.xcassets */; };
+		2CB3814B2A3284EA00A2DDEC /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB3814A2A3284EA00A2DDEC /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2CB3813E2A32844900A2DDEC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CB381402A32844A00A2DDEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CB381432A32844A00A2DDEC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CB3814A2A3284EA00A2DDEC /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2CB3813C2A32844900A2DDEC /* Lesson_4_1App.swift */,
 				2CB3813E2A32844900A2DDEC /* ContentView.swift */,
+				2CB3814A2A3284EA00A2DDEC /* CircleView.swift */,
 				2CB381402A32844A00A2DDEC /* Assets.xcassets */,
 				2CB381422A32844A00A2DDEC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CB3814B2A3284EA00A2DDEC /* CircleView.swift in Sources */,
 				2CB3813F2A32844900A2DDEC /* ContentView.swift in Sources */,
 				2CB3813D2A32844900A2DDEC /* Lesson_4_1App.swift in Sources */,
 			);
